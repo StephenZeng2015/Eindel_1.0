@@ -10,6 +10,7 @@ import time
 import sys
 import os
 
+
 #######################################################FOR DEBUG###############################################################
 Process = "V"
 Fastq1 = "/home/zengshuai/fastq_files/A_read1.fastq"
